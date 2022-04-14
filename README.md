@@ -1,2 +1,2 @@
-# Desafio de Projeto sobre Git/Github da DIO
-Desafio de Projeto sobre Git/Github
+# Projeto sobre Git/Github da DIO
+##Aprendendo sobre GITHUB
