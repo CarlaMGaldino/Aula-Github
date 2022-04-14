@@ -1,2 +1,2 @@
-# Projeto sobre Git/Github da DIO
+# Git/Github da DIO
 ##Aprendendo sobre GITHUB
